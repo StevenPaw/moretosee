@@ -1,4 +1,34 @@
 {
   "item.moretosee.citrine": "Citrine",
-  "block.moretosee.black_concrete_pillar": "Black Concrete Pillar"
+  "item.moretosee.drinks.minedudler": "Minedudler",
+  "item.moretosee.drinks.creepercola": "Creeper Cola",
+  "item.moretosee.drinks.blockbrew": "Block Brew",
+  "item.moretosee.drinks.lavamead": "Lava Mead",
+  "item.moretosee.drinks.lemonsmite": "Lemon Smite",
+  "item.moretosee.drinks.craftycoffee": "Crafty Coffee",
+  "item.moretosee.drinks.endertea": "Ender Tea",
+
+  "item.moretosee.moretosee_eye": "More To See Eye",
+
+  "block.moretosee.black_concrete_pillar": "Black Concrete Pillar",
+  "block.moretosee.flags.bi_flag": "Bi Flag",
+  "block.moretosee.flags.china_flag": "China Flag",
+  "block.moretosee.flags.croatia_flag": "Croatia Flag",
+  "block.moretosee.flags.drugar_flag": "Drugar Flag",
+  "block.moretosee.flags.england_flag": "England Flag",
+  "block.moretosee.flags.gay_flag": "Gay Flag",
+  "block.moretosee.flags.german_flag": "German Flag",
+  "block.moretosee.flags.japan_flag": "Japan Flag",
+  "block.moretosee.flags.pan_flag": "Pan Flag",
+  "block.moretosee.flags.russia_flag": "Russia Flag",
+  "block.moretosee.flags.sweden_flag": "Sweden Flag",
+  "block.moretosee.flags.usa_flag": "USA Flag",
+
+  "block.moretosee.cash_register": "Cash Register",
+  "block.moretosee.graphic_tablet": "Graphic Tablet",
+  "block.moretosee.pc_setup": "PC Setup",
+
+  "effect.moretosee.drunk": "Drunk",
+
+  "itemGroup.moretoseetab": "More To See"
 }

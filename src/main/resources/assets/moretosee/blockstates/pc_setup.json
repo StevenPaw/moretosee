@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "moretosee:blocks/pc_setup" },
+    "facing=south": { "model": "moretosee:blocks/pc_setup", "y":  180},
+    "facing=west": { "model": "moretosee:blocks/pc_setup", "y":  270},
+    "facing=east": { "model": "moretosee:blocks/pc_setup", "y":  90}
+  }
+}

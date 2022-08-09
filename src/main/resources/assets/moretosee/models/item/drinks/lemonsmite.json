@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "moretosee:item/citrine"
+    "layer0": "moretosee:item/drinks/lemonsmite"
   }
 }

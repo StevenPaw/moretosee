@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "moretosee:blocks/cash_register" },
+    "facing=south": { "model": "moretosee:blocks/cash_register", "y":  180},
+    "facing=west": { "model": "moretosee:blocks/cash_register", "y":  270},
+    "facing=east": { "model": "moretosee:blocks/cash_register", "y":  90}
+  }
+}
