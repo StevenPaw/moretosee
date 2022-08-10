@@ -9,6 +9,7 @@ import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.level.block.Block;
+import net.minecraft.world.level.block.SlabBlock;
 import net.minecraft.world.level.block.state.BlockBehaviour;
 import net.minecraft.world.level.material.Material;
 import net.minecraftforge.eventbus.api.IEventBus;
@@ -25,6 +26,43 @@ public class ModBlocks {
     public static final RegistryObject<Block> BLACK_CONCRETE_PILLAR = registerBlock("black_concrete_pillar",
             () -> new Block(BlockBehaviour.Properties.of(Material.STONE)
                     .strength(9f)), ModCreativeModeTab.MORETOSEE_TAB);
+
+    //Large Planks--
+    public static final RegistryObject<Block> LARGE_ACACIA_PLANKS = registerBlock("large_planks/large_acacia_planks",
+            () -> new Block(BlockBehaviour.Properties.of(Material.WOOD)
+                    .strength(2f)), ModCreativeModeTab.MORETOSEE_TAB);
+    public static final RegistryObject<Block> LARGE_BIRCH_PLANKS = registerBlock("large_planks/large_birch_planks",
+            () -> new Block(BlockBehaviour.Properties.of(Material.WOOD)
+                    .strength(2f)), ModCreativeModeTab.MORETOSEE_TAB);
+    public static final RegistryObject<Block> LARGE_CRIMSON_PLANKS = registerBlock("large_planks/large_crimson_planks",
+            () -> new Block(BlockBehaviour.Properties.of(Material.WOOD)
+                    .strength(2f)), ModCreativeModeTab.MORETOSEE_TAB);
+    public static final RegistryObject<Block> LARGE_DARK_OAK_PLANKS = registerBlock("large_planks/large_dark_oak_planks",
+            () -> new Block(BlockBehaviour.Properties.of(Material.WOOD)
+                    .strength(2f)), ModCreativeModeTab.MORETOSEE_TAB);
+    public static final RegistryObject<Block> LARGE_JUNGLE_PLANKS = registerBlock("large_planks/large_jungle_planks",
+            () -> new Block(BlockBehaviour.Properties.of(Material.WOOD)
+                    .strength(2f)), ModCreativeModeTab.MORETOSEE_TAB);
+    public static final RegistryObject<Block> LARGE_OAK_PLANKS = registerBlock("large_planks/large_oak_planks",
+            () -> new Block(BlockBehaviour.Properties.of(Material.WOOD)
+                    .strength(2f)), ModCreativeModeTab.MORETOSEE_TAB);
+    public static final RegistryObject<Block> LARGE_SPRUCE_PLANKS = registerBlock("large_planks/large_spruce_planks",
+            () -> new Block(BlockBehaviour.Properties.of(Material.WOOD)
+                    .strength(2f)), ModCreativeModeTab.MORETOSEE_TAB);
+    public static final RegistryObject<Block> LARGE_WARPED_PLANKS = registerBlock("large_planks/large_warped_planks",
+            () -> new Block(BlockBehaviour.Properties.of(Material.WOOD)
+                    .strength(2f)), ModCreativeModeTab.MORETOSEE_TAB);
+
+    //Steel--
+    public static final RegistryObject<Block> STEEL_BLOCK = registerBlock("steel/steel_block",
+            () -> new Block(BlockBehaviour.Properties.of(Material.METAL)
+                    .strength(10f)), ModCreativeModeTab.MORETOSEE_TAB);
+    public static final RegistryObject<Block> STEEL_CASING = registerBlock("steel/steel_casing",
+            () -> new Block(BlockBehaviour.Properties.of(Material.METAL)
+                    .strength(10f)), ModCreativeModeTab.MORETOSEE_TAB);
+    public static final RegistryObject<Block> STEEL_SLAB = registerBlock("steel/steel_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.of(Material.METAL)
+                    .strength(10f)), ModCreativeModeTab.MORETOSEE_TAB);
 
     //Decoration Blocks--
     public static final RegistryObject<Block> CASH_REGISTER = registerBlock("cash_register",

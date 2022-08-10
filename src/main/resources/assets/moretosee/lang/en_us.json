@@ -24,6 +24,18 @@
   "block.moretosee.flags.sweden_flag": "Sweden Flag",
   "block.moretosee.flags.usa_flag": "USA Flag",
 
+  "block.moretosee.large_planks.large_acacia_planks": "Large Acacia Planks",
+  "block.moretosee.large_planks.large_birch_planks": "Large Birch Planks",
+  "block.moretosee.large_planks.large_crimson_planks": "Large Crimson Planks",
+  "block.moretosee.large_planks.large_dark_oak_planks": "Large Dark Oak Planks",
+  "block.moretosee.large_planks.large_jungle_planks": "Large Jungle Planks",
+  "block.moretosee.large_planks.large_oak_planks": "Large Oak Planks",
+  "block.moretosee.large_planks.large_spruce_planks": "Large Spruce Planks",
+  "block.moretosee.large_planks.large_warped_planks": "Large Warped Planks",
+
+  "block.moretosee.steel.steel_block": "Steel Block",
+  "block.moretosee.steel.steel_casing": "Steel Casing",
+
   "block.moretosee.cash_register": "Cash Register",
   "block.moretosee.graphic_tablet": "Graphic Tablet",
   "block.moretosee.pc_setup": "PC Setup",

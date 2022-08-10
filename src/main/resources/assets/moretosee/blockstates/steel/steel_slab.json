@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "type=bottom": { "model":  "moretosee:blocks/steel/steel_slab"},
+    "type=top": { "model":  "moretosee:blocks/steel/steel_slab_top"},
+    "type=double": { "model":  "moretosee:blocks/steel/steel_block"}
+  }
+}

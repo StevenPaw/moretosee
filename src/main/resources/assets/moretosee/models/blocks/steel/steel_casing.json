@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "moretosee:blocks/steel/steel_casing"
+  }
+}
