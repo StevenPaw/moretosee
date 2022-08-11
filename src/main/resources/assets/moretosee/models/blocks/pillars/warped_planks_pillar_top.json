@@ -1,0 +1,7 @@
+{
+  "parent": "moretosee:blocks/pillars/pillar_top",
+  "textures": {
+    "0": "moretosee:blocks/pillars/warped_planks_pillar",
+    "particle": "moretosee:blocks/pillars/warped_planks_pillar"
+  }
+}

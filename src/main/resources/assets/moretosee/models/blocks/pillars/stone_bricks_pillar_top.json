@@ -1,0 +1,7 @@
+{
+  "parent": "moretosee:blocks/pillars/pillar_top",
+  "textures": {
+    "0": "moretosee:blocks/pillars/stone_bricks_pillar",
+    "particle": "moretosee:blocks/pillars/stone_bricks_pillar"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "moretosee:blocks/pillars/pillar_double",
+  "textures": {
+    "0": "moretosee:blocks/pillars/acacia_planks_pillar",
+    "particle": "moretosee:blocks/pillars/acacia_planks_pillar"
+  }
+}

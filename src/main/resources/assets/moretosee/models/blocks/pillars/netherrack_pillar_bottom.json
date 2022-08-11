@@ -1,0 +1,7 @@
+{
+  "parent": "moretosee:blocks/pillars/pillar_bottom",
+  "textures": {
+    "0": "moretosee:blocks/pillars/netherrack_pillar",
+    "particle": "moretosee:blocks/pillars/netherrack_pillar"
+  }
+}

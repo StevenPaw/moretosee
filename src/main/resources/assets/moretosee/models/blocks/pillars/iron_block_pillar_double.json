@@ -1,0 +1,7 @@
+{
+  "parent": "moretosee:blocks/pillars/pillar_double",
+  "textures": {
+    "0": "moretosee:blocks/pillars/iron_block_pillar",
+    "particle": "moretosee:blocks/pillars/iron_block_pillar"
+  }
+}

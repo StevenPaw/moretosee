@@ -1,6 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "moretosee:blocks/black_concrete_pillar"
-  }
-}
